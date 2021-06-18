@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot_of_webPage](./images/ScreenShot_of_webPage.jpg)
+![Screenshot_of_webPage](./images/ScreenShot_of_webPage.jpeg)
 
 Added a screenshot of my solution.
 
